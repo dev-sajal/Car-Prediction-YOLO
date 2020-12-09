@@ -1,3 +1,3 @@
-# Project built for internal evaluation
+# Car Prediction using YOLO
 
-### This project will test the Deep Learning model architecture skill and we are using tensorflow's keras api to architecture the model.
+### This project is based on the project provided in the deeplearning.ai course on Convolutional Neural Networks.
